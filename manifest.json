@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Upromise Survey EPM",
+  "version": "1.0.0",
+  "description": "Shows estimated earnings per minute (EPM) for surveys on upromise.com.",
+  "content_scripts": [
+    {
+      "matches": ["*://*.upromise.com/*", "*://upromise.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "upromise-survey-epm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build && cp manifest.json dist/",
+    "dev": "vite build --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
+  }
+}
