@@ -63,12 +63,9 @@ Then in `chrome://extensions`:
 - Refresh the Upromise page
 
 ## Screenshots
+<img width="471" height="304" alt="upromise" src="https://github.com/user-attachments/assets/db20b0bb-08ae-4b07-862d-053881981814" />
 
-Add screenshots to the `docs/` folder and reference them here.
 
-Example file names:
-- `docs/survey-list-with-epm.png`
-- `docs/extension-loaded.png`
 
 Markdown example:
 
